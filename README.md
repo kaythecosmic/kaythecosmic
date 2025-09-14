@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaythecosmic&label=Profile%20views&color=0e75b6&style=flat" alt="kaythecosmic" /> </p>
 
-I am an intern developer, primarily working in web development and deep learning with computer vision and NLP.
+I am an full stack developer, primarily building J2EE applications.
 
 ![Kanishks Github](https://github-readme-stats.vercel.app/api?username=kaythecosmic&show_icons=true&theme=swift&hide=issues,stars&show=prs_merged,prs_merged_percentage&include_all_commits=true  )
 
